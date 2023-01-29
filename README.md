@@ -4,11 +4,10 @@
 30/1/2023
 
 ### Project Title
-Replace the Project Title
+BikeShare Details
 
 ### Description
-Describe what your project is about and what it does
-
+Python is used to write this project. The program asks the user for the city, month, and day. The program will figure out the most frequently traveled day of the week, travel time, start time, most frequently utilized start station, most frequently utilized end station, and most frequently utilized combination of start station and end station trip. The program will show the number of user types, mean travel time, total travel time, gender, and birth year—earliest, most recent, and most common.
 ### Files used
 Include the files used
 
